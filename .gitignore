@@ -17,4 +17,6 @@ njoy/
 venv/
 api/
 back/
+.zip
+.tar
 __pycache__/
