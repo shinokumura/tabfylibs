@@ -1,0 +1,18 @@
+ 9.022900+4 2.270640+2         -1          0          0          29031 1451
+ 0.000000+0 1.000000+0          0          0          0          69031 1451
+ 1.000000+0 2.000000+7          0          0         11          89031 1451
+ 0.000000+0 0.000000+0          0          0         10          39031 1451
+ 90-Th-229 LANL       EVAL-JUL89 T.R. ENGLAND ET AL               9031 1451
+ ENDF-349             DIST-FEB18 REV1-OCT92            20111222   9031 1451
+----ENDF/B-VIII.0     MATERIAL 9031         REVISION 1            9031 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9031 1451
+------ENDF-6 FORMAT                                               9031 1451
+                                                                  9031 1451
+ REFERENCE: T.R. ENGLAND, B.F. RIDER, EVALUATION AND              9031 1451
+  COMPILATION OF FISSION-PRODUCT YIELDS, 1992, ENDF-349           9031 1451
+----FORMATTED BY D.C. GEORGE                                      9031 1451
+                                                                  9031 1451
+                                1        451         17          29031 1451
+                                8        454        828          29031 1451
+                                8        459        828          29031 1451
+                                                                  9031 1  0

@@ -1,0 +1,20 @@
+# masOS hidden files
+*.DS_Store
+*~
+
+# other temporary files
+\#*\#
+.\#*
+ref/*
+*conflicted*
+*.swp
+*.bak
+# private files if you want to keep them locally
+local
+*.sh
+.ipynb_checkpoints/
+njoy/
+venv/
+api/
+back/
+__pycache__/

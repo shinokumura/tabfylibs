@@ -1,0 +1,20 @@
+#---------------------------------------------------------------------#
+#                                                                     #
+#  JENDL-4.0 fission yield sublibrary (2012/09/14)                    #
+#                                                                     #
+#  [List of JENDL-4.0 update]                                         #
+#                                                                     #
+#  Please check detail or the newest information on                   #
+#                                                                     #
+#             http://wwwndc.jaea.go.jp/jendl/j40/update/ .            #
+#                                                                     #
+#  Meanings of the "Sub" column :                                     #
+#      NF = neutron-induced fission yield,                            #
+#      SF = spontaneous fission yield.                                #
+#                                                                     #
+#---------------------------------------------------------------------#
+#
+# No.  Ver.  Nuclide  Sub  Dist.Date   File-Name
+    1   u1   Pu-241   NF   2012/09/14  Pu241NF.dat
+    2   u1   Am-242m  NF   2012/09/14  Am242mNF.dat
+

@@ -1,0 +1,18 @@
+ 9.825000+4 2.479300+2         -1          0          0          29855 1451
+ 0.000000+0 1.000000+0          0          0          0          69855 1451
+ 0.000000+0 0.000000+0          0          0          5          89855 1451
+ 0.000000+0 0.000000+0          0          0         10          39855 1451
+ 98-Cf-250            EVAL-JUL89 T.R. ENGLAND ET AL               9855 1451
+ ENDF-349             DIST-FEB18 REV1-OCT92            20111222   9855 1451
+----ENDF/B-VIII.0     MATERIAL 9855         REVISION 1            9855 1451
+-----SPONTANEOUS FISSION PRODUCT YIELDS                           9855 1451
+------ENDF-6 FORMAT                                               9855 1451
+                                                                  9855 1451
+ REFERENCE: T.R. ENGLAND, B.F. RIDER, EVALUATION AND              9855 1451
+  COMPILATION OF FISSION-PRODUCT YIELDS, 1992, ENDF-349           9855 1451
+----FORMATTED BY D.C. GEORGE                                      9855 1451
+                                                                  9855 1451
+                                1        451         17          29855 1451
+                                8        454        817          29855 1451
+                                8        459        817          29855 1451
+                                                                  9855 1  0

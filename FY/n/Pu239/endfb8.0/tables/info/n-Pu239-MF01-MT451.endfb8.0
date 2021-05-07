@@ -1,0 +1,41 @@
+ 9.423900+4 2.369986+2         -1          0          0          39437 1451
+ 0.000000+0 1.000000+0          0          0          0          69437 1451
+ 1.000000+0 2.000000+7          0          0         11          89437 1451
+ 0.000000+0 0.000000+0          0          0         33          39437 1451
+ 94-Pu-239            EVAL-Nov11 M.B. Chadwick, T. Kawano         9437 1451
+ NDS 112, 2887 (2011) DIST-FEB18 REV3-Nov11            20111222   9437 1451
+----ENDF/B-VIII.0     MATERIAL 9437         REVISION 3            9437 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9437 1451
+------ENDF-6 FORMAT                                               9437 1451
+                                                                  9437 1451
+***************************** ENDF/B-VII.1************************9437 1451
+ Fission Product Yield Evaluation at LANL              2010, 2011 9437 1451
+                                      M.B. Chadwick and T. Kawano 9437 1451
+                                                                  9437 1451
+ Mass chain yields for Pu239 were re-evaluated based on careful   9437 1451
+ re-analysis of available experimetal data, considering energy    9437 1451
+ dependence of FPYs in the fast energy range [CH10,CH11].         9437 1451
+ A new 2-MeV energy point was added to deal with the energy       9437 1451
+ dependence explictly. The FPY data at the thermal energy was     9437 1451
+ not changed.                                                     9437 1451
+                                                                  9437 1451
+ The fission product yield data in ENDF/B-VII.0 were adjusted     9437 1451
+ with the KALMAN code to reproduce the evaluated chain yields.    9437 1451
+ This procedure was constrained by the requirements; the sum      9437 1451
+ of FPY should be 2.0, and the total number of neutrons and       9437 1451
+ protons must be conserved.                                       9437 1451
+                                                                  9437 1451
+ [CH10] M.B. Chadwick, et al.                                     9437 1451
+        Nuclear Data Sheets 111, 2923 (2010).                     9437 1451
+ [CH11] M.B. Chadwick, et al.                                     9437 1451
+        Nuclear Data Sheets 112, (2011) [to be published].        9437 1451
+                                                                  9437 1451
+***************************** ENDF/B-VII.0************************9437 1451
+ REFERENCE: T.R. ENGLAND, B.F. RIDER, EVALUATION AND              9437 1451
+  COMPILATION OF FISSION-PRODUCT YIELDS, 1992, ENDF-349           9437 1451
+----FORMATTED BY D.C. GEORGE                                      9437 1451
+                                                                  9437 1451
+                                1        451         40          39437 1451
+                                8        454       3301          39437 1451
+                                8        459       3301          39437 1451
+                                                                  9437 1  0

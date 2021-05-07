@@ -1,0 +1,18 @@
+ 9.424000+4 2.379920+2         -1          0          0          29440 1451
+ 0.000000+0 1.000000+0          0          0          0          69440 1451
+ 1.000000+0 2.000000+7          0          0         11          89440 1451
+ 0.000000+0 0.000000+0          0          0         10          39440 1451
+ 94-Pu-240            EVAL-JUL89 T.R. ENGLAND ET AL               9440 1451
+ ENDF-349             DIST-FEB18 REV1-OCT92            20111222   9440 1451
+----ENDF/B-VIII.0     MATERIAL 9440         REVISION 1            9440 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9440 1451
+------ENDF-6 FORMAT                                               9440 1451
+                                                                  9440 1451
+ REFERENCE: T.R. ENGLAND, B.F. RIDER, EVALUATION AND              9440 1451
+  COMPILATION OF FISSION-PRODUCT YIELDS, 1992, ENDF-349           9440 1451
+----FORMATTED BY D.C. GEORGE                                      9440 1451
+                                                                  9440 1451
+                                1        451         17          29440 1451
+                                8        454       2481          29440 1451
+                                8        459       2481          29440 1451
+                                                                  9440 1  0
