@@ -1,0 +1,25 @@
+ 9.624300+4 2.409730+2         -1          1          6          19634 1451
+ 0.000000+0 1.000000+0          0          0          0          69634 1451
+ 1.000000+0 1.400000+7          0          0         11          59634 1451
+ 0.000000+0 0.000000+0          0          0         17          39634 1451
+ 96-Cm-243 JAEA NDC   EVAL-JUL20 K.Tsubakihara                    9634 1451
+                      DIST-FEB22                       20220207   9634 1451
+----JENDL-5           MATERIAL 9634                               9634 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9634 1451
+------ENDF-6 FORMAT                                               9634 1451
+                                                                  9634 1451
+ /History/                                                        9634 1451
+  2021-12 JENDL-5 Fission Yield Data                              9634 1451
+  2022-02 NVER is corrected                                       9634 1451
+                                                                  9634 1451
+ Fission yield data of Ref.[1] are adopted for thermal and fast   9634 1451
+ neutrons. Cumulative yields are calculated with the JENDL-5      9634 1451
+ decay data file. Converted to ENDF-6 format by F.Minato.         9634 1451
+                                                                  9634 1451
+ REFERENCES:                                                      9634 1451
+ 1. K.Tsubakihara et al., J.Nucl.Sci.Technol. 58, 151 (2021).     9634 1451
+                                                                  9634 1451
+                                1        451         24          09634 1451
+                                8        454       1735          09634 1451
+                                8        459       1735          09634 1451
+                                                                  9634 1  0

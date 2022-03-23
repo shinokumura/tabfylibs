@@ -1,0 +1,25 @@
+ 9.624600+4 2.439600+2         -1          1          6          19643 1451
+ 0.000000+0 1.000000+0          0          0          0          69643 1451
+ 0.000000+0 0.000000+0          0          0          5          59643 1451
+ 0.000000+0 0.000000+0          0          0         17          39643 1451
+ 96-Cm-246 JAEA NDC   EVAL-JUL20 K.Tsubakihara                    9643 1451
+                      DIST-FEB22                       20220207   9643 1451
+----JENDL-5           MATERIAL 9643                               9643 1451
+-----SPONTANEOUS FISSION PRODUCT YIELDS                           9643 1451
+------ENDF-6 FORMAT                                               9643 1451
+                                                                  9643 1451
+ /History/                                                        9643 1451
+  2021-12 JENDL-5 Fission Yield Data                              9643 1451
+  2022-02 NVER and NSUB are corrected                             9643 1451
+                                                                  9643 1451
+ Fission yield data of Ref.[1] are adopted. Cumulative yields     9643 1451
+ are calculated with the JENDL-5 decay data file. Converted to    9643 1451
+ ENDF6 format by F.Minato.                                        9643 1451
+                                                                  9643 1451
+ REFERENCES:                                                      9643 1451
+ 1. K.Tsubakihara et al., J.Nucl.Sci.Technol. 58, 151 (2021).     9643 1451
+                                                                  9643 1451
+                                1        451         24          09643 1451
+                                8        454        868          09643 1451
+                                8        459        868          09643 1451
+                                                                  9643 1  0
