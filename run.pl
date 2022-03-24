@@ -377,7 +377,7 @@ sub make_decayfinite_ind{
         print "$decayfinitef\n";
         open (FINITE, "> $decayfinitef");
 
-        my $count = `cat $f | sed '\/\^\$\/\d' | wc -l`;
+        my $count = `cat $f | sed '\/\^\$\/\d' | wc -l` -2;
 
 
         print  FINITE ("#  ", $basename, "  independent fission yields\n");
