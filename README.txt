@@ -3,7 +3,7 @@ README
                   March 2022   add decayfinite format
 
 + ---------------------------- +
-## Download
+    Download
 + ---------------------------- +
 You can download the repository by following command from the terminal:
 
@@ -13,7 +13,7 @@ git clone https://github.com/shinokumura/tabfylibs.git
 
 
 + ---------------------------- +
-## How to run:
+    How to run:
 + ---------------------------- +
 
 FY/ directory contains all data resulted by running perl script (run.pl).              
@@ -49,7 +49,7 @@ perl run.pl
 
 
 + ---------------------------- +
-## File description for dataexplorer (https://nds.iaea.org/dataexplorer/fy):
+    File description for dataexplorer (https://nds.iaea.org/dataexplorer/fy):
 + ---------------------------- +
  FY/0/: Spontanious fission for data exploere https://nds.iaea.org/dataexplorer/fy
  FY/n/: Neutron induced fission for data exploere https://nds.iaea.org/dataexplorer/fy
@@ -73,7 +73,7 @@ perl run.pl
             E014.000: 14 MeV for all libraries  
 
 + ---------------------------- +
-## File description for decayfinite
+    File description for decayfinite
 + ---------------------------- +
 
  FY/decayfinite/: decayfinite format files
