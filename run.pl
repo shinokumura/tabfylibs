@@ -14,8 +14,8 @@ use File::Path 'rmtree';
 use File::Basename;
 
 my $type    = undef;
-my $topdir  = "FY/";
-#my $topdir  = "/Users/sin/Documents/nucleardata/exforpyplot2/libraries/FY/";
+#my $topdir  = "FY/";
+my $topdir  = "/Users/okumuras/Documents/nucleardata/libraries/libraries/FY/";
 my $endff   = "/files/";
 my $tables  = "/tables/FY/";
 my $info    = "/tables/info/";
@@ -29,12 +29,12 @@ my $outdir_files  = undef;
 my $outdir_decayfinite = undef;
 
 
-#=pod
+
 #---------------------------------------------------------------------------
 #
 #  ENDF/B-8
 #
-#=pod
+
 $libname  = "endfb8.0";
 @files    =  glob "download/ENDF-B-VIII.0_*/*.endf";
 
@@ -73,8 +73,9 @@ foreach my $file (@files){
 #
 #  JENDL4.0/5.0 in jendl40-or-up-fy_20120914
 #
-my @libs = ("jendl4.0", "jendl5.0");
-# $libname  = "jendl4.0";
+# my @libs = ("jendl4.0", "jendl5.0");
+my @libs = ("jendl5.0");
+#$libname  = "jendl4.0";
 
 foreach (@libs){
 
@@ -160,7 +161,7 @@ foreach my $file (@files){
     &cp_files($file, $type, $el, $a, $libname, $outdir_files);
     &inc_energy_split($type, $el, $a, $libname, $outdir_tables);
 }
-#=cut
+
 
 
 
@@ -345,13 +346,10 @@ sub elemtoz {
 
 #---------------------------------------------------------------------------
 #
-#  Create decayfinite format files and Y(A) files
+#  Create decayfinite format files
 #
-&make_decayfinite_ind();
 
-&make_ya_ind();
-&make_ya_cum();
-
+#&make_decayfinite_ind();
 
 #  Create decayfinite format files
 sub make_decayfinite_ind{
@@ -399,6 +397,15 @@ sub make_decayfinite_ind{
     close(FINITE);
     }
 }
+
+
+#---------------------------------------------------------------------------
+#
+#  Y(A) files
+#
+
+&make_ya_ind();
+&make_ya_cum();
 
 
 sub make_ya_ind{
