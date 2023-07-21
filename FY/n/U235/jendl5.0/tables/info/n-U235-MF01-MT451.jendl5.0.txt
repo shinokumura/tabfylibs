@@ -1,0 +1,29 @@
+ 9.223500+4 2.330250+2         -1          1          6          19228 1451
+ 0.000000+0 1.000000+0          0          0          0          69228 1451
+ 1.000000+0 1.400000+7          0          0         11          59228 1451
+ 0.000000+0 0.000000+0          0          0         21          39228 1451
+ 92-U -235 JAEA NDC   EVAL-JUL20 K.Tsubakihara                    9228 1451
+                      DIST-FEB23                       20230225   9228 1451
+----JENDL-5           MATERIAL 9228                               9228 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9228 1451
+------ENDF-6 FORMAT                                               9228 1451
+                                                                  9228 1451
+ /History/                                                        9228 1451
+  2021-12 JENDL-5 Fission Yield Data                              9228 1451
+  2022-02 NVER is corrected                                       9228 1451
+  2022-07 ZAFP for 14 MeV are corrected                           9228 1451
+  2023-02 Cumulative yields are calculated by nulcei with         9228 1451
+          half-life < 1000 y                                      9228 1451
+                                                                  9228 1451
+ Fission yield data of Ref.[1] are adopted for thermal and fast   9228 1451
+ neutrons. For 14 MeV, JENDL/FPY-2011[2] data are adopted with    9228 1451
+ the cumulative yields estimated by the JENDL-5 Decay Data.       9228 1451
+                                                                  9228 1451
+ REFERENCES:                                                      9228 1451
+ 1. K.Tsubakihara et al., J.Nucl.Sci.Technol. 58, 151 (2021).     9228 1451
+ 2. J.Katakura et al., JAEA-Data/Code 2011-025 (2012).            9228 1451
+                                                                  9228 1451
+                                1        451         28          09228 1451
+                                8        454       2602          09228 1451
+                                8        459       2602          09228 1451
+                                                                  9228 1  0

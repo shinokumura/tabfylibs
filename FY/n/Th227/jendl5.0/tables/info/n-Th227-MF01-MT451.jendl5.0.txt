@@ -1,0 +1,27 @@
+ 9.022700+4 2.250770+2         -1          1          6          19025 1451
+ 0.000000+0 1.000000+0          0          0          0          69025 1451
+ 1.000000+0 1.400000+7          0          0         11          59025 1451
+ 0.000000+0 0.000000+0          0          0         19          39025 1451
+ 90-Th-227 JAEA NDC   EVAL-JUL20 K.Tsubakihara                    9025 1451
+                      DIST-FEB23                       20230225   9025 1451
+----JENDL-5           MATERIAL 9025                               9025 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9025 1451
+------ENDF-6 FORMAT                                               9025 1451
+                                                                  9025 1451
+ /History/                                                        9025 1451
+  2021-12 JENDL-5 Fission Yield Data                              9025 1451
+  2022-02 NVER is corrected                                       9025 1451
+  2023-02 Cumulative yields are calculated by nulcei with         9025 1451
+          half-life < 1000 y                                      9025 1451
+                                                                  9025 1451
+ Fission yield data of Ref.[1] are adopted for thermal neutron.   9025 1451
+ Cumulative yields are calculated with the JENDL-5 decay data     9025 1451
+ file. Converted to ENDF-6 format by F.Minato.                    9025 1451
+                                                                  9025 1451
+ REFERENCES:                                                      9025 1451
+ 1. K.Tsubakihara et al., J.Nucl.Sci.Technol. 58, 151 (2021).     9025 1451
+                                                                  9025 1451
+                                1        451         26          09025 1451
+                                8        454        868          09025 1451
+                                8        459        868          09025 1451
+                                                                  9025 1  0

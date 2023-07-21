@@ -1,0 +1,27 @@
+ 9.223700+4 2.350120+2         -1          1          6          19234 1451
+ 0.000000+0 1.000000+0          0          0          0          69234 1451
+ 1.000000+0 1.400000+7          0          0         11          59234 1451
+ 0.000000+0 0.000000+0          0          0         19          39234 1451
+ 92-U -237 JAEA NDC   EVAL-JUL20 K.Tsubakihara                    9234 1451
+                      DIST-FEB23                       20230225   9234 1451
+----JENDL-5           MATERIAL 9234                               9234 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9234 1451
+------ENDF-6 FORMAT                                               9234 1451
+                                                                  9234 1451
+ /History/                                                        9234 1451
+  2021-12 JENDL-5 Fission Yield Data                              9234 1451
+  2022-02 NVER is corrected                                       9234 1451
+  2023-02 Cumulative yields are calculated by nulcei with         9234 1451
+          half-life < 1000 y                                      9234 1451
+                                                                  9234 1451
+ Fission yield data of Ref.[1] are adopted for fast neutron.      9234 1451
+ Cumulative yields are calculated with JENDL-5 decay data file.   9234 1451
+ Converted to ENDF-6 format by F.Minato.                          9234 1451
+                                                                  9234 1451
+ REFERENCES:                                                      9234 1451
+ 1. K.Tsubakihara et al., J.Nucl.Sci.Technol. 58, 151 (2021).     9234 1451
+                                                                  9234 1451
+                                1        451         26          09234 1451
+                                8        454        868          09234 1451
+                                8        459        868          09234 1451
+                                                                  9234 1  0

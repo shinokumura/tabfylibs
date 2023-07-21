@@ -1,0 +1,47 @@
+\documentclass[10pt,a4paper,titlepage]{article}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{grffile}
+\usepackage{here}
+\usepackage{authblk}
+\usepackage{hyperref}
+\usepackage{color}   %May be necessary if you want to color links
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true, %set true if you want colored links
+    linktoc=all,     %set to all if you want both sections and subsections linked
+    linkcolor=blue,  %choose some color if you want links to stand out
+}
+
+\usepackage[absolute]{textpos}
+\usepackage[top=1cm, bottom=2cm, left=2cm, right=2cm]{geometry}
+
+\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+\renewcommand{\thefigure}{S\arabic{figure}}
+\title{GEF Fission Fragment Distribution Plots}
+
+
+\author[1]{Shin OKUMURA}
+
+%%
+%% Affiliation's name and address
+%%
+\affil[1]{NAPC-Nuclear Data Section, International Atomic Energy Agency,
+  Vienna International Centre, 1400 Vienna, Austria.}
+
+\date{}
+
+\begin{document}
+  
+\begin{textblock}{10}(1,1)
+\noindent\Large Supplemental Online Material
+\end{textblock}
+\maketitle
+
+
+\tableofcontents
+\clearpage
+\section{Mass yield}
+\input{YA/list.tex}
+
+\end{document}

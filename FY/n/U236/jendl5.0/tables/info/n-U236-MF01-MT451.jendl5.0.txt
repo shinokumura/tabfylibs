@@ -1,0 +1,30 @@
+ 9.223600+4 2.340180+2         -1          1          6          19231 1451
+ 0.000000+0 1.000000+0          0          0          0          69231 1451
+ 1.000000+0 1.400000+7          0          0         11          59231 1451
+ 0.000000+0 0.000000+0          0          0         22          39231 1451
+ 92-U -236 JAEA NDC   EVAL-JUL20 K.Tsubakihara                    9231 1451
+                      DIST-FEB23                       20230225   9231 1451
+----JENDL-5           MATERIAL 9231                               9231 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9231 1451
+------ENDF-6 FORMAT                                               9231 1451
+                                                                  9231 1451
+ /History/                                                        9231 1451
+  2021-12 JENDL-5 Fission Yield Data                              9231 1451
+  2022-02 NVER is corrected                                       9231 1451
+  2022-07 ZAFP for 14 MeV are corrected                           9231 1451
+  2023-02 Cumulative yields are calculated by nulcei with         9231 1451
+          half-life < 1000 y                                      9231 1451
+                                                                  9231 1451
+ Fission yield data of Ref.[1] are adopted for fast neutrons.     9231 1451
+ For 14 MeV, JENDL/FPY-2011[2] data are adopted with the          9231 1451
+ cumulative yields estimated by the JENDL-5 Decay Data.           9231 1451
+ Converted to ENDF-6 format by F.Minato.                          9231 1451
+                                                                  9231 1451
+ REFERENCES:                                                      9231 1451
+ 1. K.Tsubakihara et al., J.Nucl.Sci.Technol. 58, 151 (2021).     9231 1451
+ 2. J.Katakura et al., JAEA-Data/Code 2011-025 (2012).            9231 1451
+                                                                  9231 1451
+                                1        451         29          09231 1451
+                                8        454       1735          09231 1451
+                                8        459       1735          09231 1451
+                                                                  9231 1  0
