@@ -141,7 +141,7 @@ foreach my $file (@files){
 #  JENDL4.0/5.0 
 #
 # my @libs = ("jendl4.0", "jendl5.0");
-my @libs = ("jendl4.0", "jendl5.0updFeb23");
+my @libs = ("jendl5.0updFeb23");
 #$libname  = "jendl4.0";
 
 foreach (@libs){
