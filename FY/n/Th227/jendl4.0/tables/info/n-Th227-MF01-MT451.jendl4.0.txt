@@ -1,0 +1,28 @@
+ 9.022700+4 2.250770+2         -1          0          6          19025 1451
+ 0.000000+0 1.000000+0          0          0          0          69025 1451
+ 1.000000+0 2.000000+7          0          0         11          49025 1451
+ 0.000000+0 0.000000+0          0          0         20          39025 1451
+ 90-TH-227 JAEA       EVAL-FEB10 J. KATAKURA                      9025 1451
+                      DIST-MAY10                       20100222   9025 1451
+----JENDL-4           MATERIAL 9025                               9025 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9025 1451
+------ENDF-6 FORMAT                                               9025 1451
+                                                                  9025 1451
+ ORIGINAL DATA TAKEN FROM ENDF/B-VII FILE.                        9025 1451
+ ADJUSTED INDEPENDENT AND CUMULATIVE YIELD LIBRARIES              9025 1451
+ BASED ON THE DATA IN JENDL FP DECAY DATA FILE 2000.              9025 1451
+ TERNARY FISSION YIELDS ARE ADDED.                                9025 1451
+ CONVERTED BY J. KATAKURA                                         9025 1451
+                                                                  9025 1451
+ REFERENCES:                                                      9025 1451
+ 1. T.R. ENGLAND AND B.F. RIDER, "EVALUATION AND                  9025 1451
+    COMPILATION OF FISSION-PRODUCT YIELDS", 1992, ENDF-349        9025 1451
+ 2. R.W. MILLS, "FISSION PRODUCT YIELD EVALUATION", THESIS,       9025 1451
+    THE UNIVERSITY OF BIRMINGHAM, UK. (1995)                      9025 1451
+ 3. J. KATAKURA ET AL., "JENDL FP DECAY DATA FILE 2000",          9025 1451
+    JAERI 1343 (2001)                                             9025 1451
+                                                                  9025 1451
+                                1        451         27          09025 1451
+                                8        454        830          09025 1451
+                                8        459        830          09025 1451
+                                                                  9025 1  0

@@ -1,0 +1,31 @@
+ 9.825200+4 2.499200+2         -1          0          0          29861 1451
+ 0.000000+0 1.000000+0          0          0          0          69861 1451
+ 0.000000+0 0.000000+0          1          0          5          89861 1451
+ 0.000000+0 0.000000+0          0          0         23          39861 1451
+ 98-Cf-252            EVAL-JUL89 T.R. ENGLAND ET AL               9861 1451
+ ENDF-349             DIST-AUG24 REV1-FEB23            20240830   9861 1451
+---- ENDF/B-VIII.1    MATERIAL 9861         REVISION 1            9861 1451
+----- SPONTANEOUS FISSION PRODUCT YIELDS                          9861 1451
+------ ENDF-6                                                     9861 1451
+                                                                  9861 1451
+ REFERENCE: T.R. ENGLAND, B.F. RIDER, EVALUATION AND              9861 1451
+  COMPILATION OF FISSION-PRODUCT YIELDS, 1992, ENDF-349           9861 1451
+----FORMATTED BY D.C. GEORGE                                      9861 1451
+                                                                  9861 1451
+***************************September 2020 ************************9861 1451
+The cumulative fission yield uncertainties for the following      9861 1451
+nuclides were modified:  90Y GS, 90Zr GS, 91Y GS, 91Y M, 93Y GS,  9861 1451
+93Y M, 132I GS, 133I GS, 133Xe GS, 135Cs GS, 135Ba GS, 148Pr GS   9861 1451
+as the ENDF/B-VIII.0 uncertainties for them were excessively      9861 1451
+large.  Additionally, the 109Ru M and 109Rh M independent fission 9861 1451
+yields were set equal to zero since there is currently no         9861 1451
+experimental evidence for these isomers. As a result, independent 9861 1451
+and cumulative yields uncertainties for nuclides with A=109 and   9861 1451
+44 <= Z <=47 were modified.                                       9861 1451
+Authors: Andrea Mattera and Alejandro Sonzogni.                   9861 1451
+Reference: BNL Report BNL-220804-2021-INRE                        9861 1451
+******************************************************************9861 1451
+                                1        451         30          29861 1451
+                                8        454        832          29861 1451
+                                8        459        832          29861 1451
+                                                                  9861 1  0

@@ -97,11 +97,12 @@ sub elemtoz {
 
 #---------------------------------------------------------------------------
 #
-#  ENDF/B-8
+#  ENDF/B-8.0 and 8.1
 #
 
-$libname  = "endfb8.0";
-@files    =  glob "download/ENDF-B-VIII.0_*/*.endf";
+$libname  = "endfb8.1"; # or "endfb8.0"
+# @files    =  glob "download/ENDF-B-VIII.0_*/*.endf";
+@files    =  glob "download/*-version.VIII.1/*.endf";
 
 foreach my $file (@files){
     my $base = basename($file);
@@ -141,7 +142,8 @@ foreach my $file (@files){
 #  JENDL4.0/5.0 
 #
 # my @libs = ("jendl4.0", "jendl5.0");
-my @libs = ("jendl5.0updFeb23");
+# my @libs = ("jendl5.0updFeb23"); for JENDL 5.0
+my @libs = ("jendl4.0");
 #$libname  = "jendl4.0";
 
 foreach (@libs){
@@ -329,7 +331,7 @@ sub inc_energy_split{
         if (/number of FPs/) { 
             my $nfp   = ltrim(substr($line,15,13));
 
-            ## Generate YENDF-0.1 format that TALYS requires
+            ## Generate YANDF-1.0 format that TALYS requires
             $header_file = &generate_header($type, $el, $a, $libname, $mt, $e_inc, $nfp, $outdir_tables);
             print OUT ("##   A      Z  ISO           Yield         dYield\n");
             print OUT ("##                           %/fission     %/fission\n");
@@ -393,7 +395,7 @@ sub generate_header{
     else {$quant = "fission product yield";}
 
     ## assume that the header_file always consists of 11 lines in the same order
-    ## YENDF-0.1 format
+    ## YANDF-1.0 format
     if ($type eq "0"){
         print OUT ("# header:\n", "#   title: \"" .  $el. $a . " spontaneous fission product yield\"\n");
     }
@@ -474,7 +476,7 @@ sub jeff_split{
 #  Create decayfinite format files
 #
 
-#&make_decayfinite_ind();
+&make_decayfinite_ind();
 
 #  Create decayfinite format files
 sub make_decayfinite_ind{

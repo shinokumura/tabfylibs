@@ -1,0 +1,28 @@
+ 9.323800+4 2.360060+2         -1          0          6          19349 1451
+ 0.000000+0 1.000000+0          0          0          0          69349 1451
+ 1.000000+0 2.000000+7          0          0         11          49349 1451
+ 0.000000+0 0.000000+0          0          0         20          39349 1451
+ 93-NP-238 JAEA       EVAL-FEB10 J. KATAKURA                      9349 1451
+                      DIST-MAY10                       20100222   9349 1451
+----JENDL-4           MATERIAL 9349                               9349 1451
+-----NEUTRON-INDUCED FISSION PRODUCT YIELDS                       9349 1451
+------ENDF-6 FORMAT                                               9349 1451
+                                                                  9349 1451
+ ORIGINAL DATA TAKEN FROM ENDF/B-VII FILE.                        9349 1451
+ ADJUSTED INDEPENDENT AND CUMULATIVE YIELD LIBRARIES              9349 1451
+ BASED ON THE DATA IN JENDL FP DECAY DATA FILE 2000.              9349 1451
+ TERNARY FISSION YIELDS ARE ADDED.                                9349 1451
+ CONVERTED BY J. KATAKURA                                         9349 1451
+                                                                  9349 1451
+ REFERENCES:                                                      9349 1451
+ 1. T.R. ENGLAND AND B.F. RIDER, "EVALUATION AND                  9349 1451
+    COMPILATION OF FISSION-PRODUCT YIELDS", 1992, ENDF-349        9349 1451
+ 2. R.W. MILLS, "FISSION PRODUCT YIELD EVALUATION", THESIS,       9349 1451
+    THE UNIVERSITY OF BIRMINGHAM, UK. (1995)                      9349 1451
+ 3. J. KATAKURA ET AL., "JENDL FP DECAY DATA FILE 2000",          9349 1451
+    JAERI 1343 (2001)                                             9349 1451
+                                                                  9349 1451
+                                1        451         27          09349 1451
+                                8        454        830          09349 1451
+                                8        459        830          09349 1451
+                                                                  9349 1  0
